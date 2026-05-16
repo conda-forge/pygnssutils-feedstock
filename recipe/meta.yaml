@@ -35,7 +35,7 @@ requirements:
     - pysbf2 >=1.0.4
     - pyunigps >=1.0.0
     - pyqgc >=0.2.2
-    - pymmeagps >=1.1.4
+    - pynmeagps >=1.1.4
     - pyubxutils >=1.0.6
 
 test:
